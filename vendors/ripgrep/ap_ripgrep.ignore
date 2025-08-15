@@ -1,0 +1,7 @@
+*.lock
+.git
+node_modules/
+.idea
+.nox
+.venv
+.pytest_cache
